@@ -3,7 +3,7 @@
  * Plugin Name: Give - French Form Translation
  * Plugin URI: https://github.com/impress-org/givewp-snippet-library/blob/master/translation-snippets/change-text-locally-per-form.php
  * Description: Additional functionality for Stand Ahead French Donation Page. Translates text on that page.
- * Author: WordImpress / Munter Westermann
+ * Author: WordImpress
  * Author URI: https://wordimpress.com
  * Version: 0.1
  * Text Domain: give
